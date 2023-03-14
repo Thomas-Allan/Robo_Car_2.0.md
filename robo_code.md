@@ -1,10 +1,10 @@
-*const int buttonPinF = 1;   // the number of the pushbutton pin
-*const int buttonPinB = 2;
-*const int buttonPinR = 3;
-*const int buttonPinL = 4;
+* const int buttonPinF = 1;   // the number of the pushbutton pin
+* const int buttonPinB = 2;
+* const int buttonPinR = 3;
+* const int buttonPinL = 4;
 
-*const int ledPin1 = 9;
-*const int ledPin2 = 10;
+* const int ledPin1 = 9;
+* const int ledPin2 = 10;
 const int ledPin3 = 11;
 const int ledPin4 = 12;
 
